@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Checkpoints
+checkpoints/
+checkpoints2/
+checkpoints3/
+checkpoints4/
+checkpoints5/
+checkpoints6/
+checkpoints7/
+checkpoints8/
+checkpoints9/
+checkpoints10/
+checkpoints11/
+checkpoints12/
+checkpoints13/
+checkpoints14/
+checkpoints15/
+checkpoints16/
+checkpoints_moco/
+checkpoints_spark/
+# Logs
+logs/
+logs2/
+logs3/
+logs4/
+logs5/
+logs6/
+logs7/
+logs8/
+logs9/
+logs10/
+logs11/
+logs12/
+logs13/
+logs14/
+logs15/
+logs16/
+logs_moco/
+logs_spark/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
